@@ -1,7 +1,7 @@
 id: UOW-A03
 title: A-Team Divergent Architecture Generation
 activity: divergent-generation
-state: ready
+state: dispatched
 subject_ids:
 - IDEA-A01
 workflow_id: WFL-A01
