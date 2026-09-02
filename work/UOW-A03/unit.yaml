@@ -1,0 +1,15 @@
+id: UOW-A03
+title: A-Team Divergent Architecture Generation
+activity: divergent-generation
+state: ready
+subject_ids:
+- IDEA-A01
+workflow_id: WFL-A01
+assignee:
+  kind: agent
+estimate:
+  my_time: 1.5h
+  size: medium
+template: divergent-generation@1
+action_guide: Unfiltered candidate generation exploring distinct physical paradigms.  here
+  is my update
