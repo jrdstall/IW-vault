@@ -1,8 +1,7 @@
 ---
 id: FRI-A04
 type: friction
-title: I don't like how my cycling lights don't clamp well to handlebars, how you
-  have
+title: Cycling Lights Suck
 created: '2026-09-05T00:08:49.346936+00:00'
 domain: general
 tags:

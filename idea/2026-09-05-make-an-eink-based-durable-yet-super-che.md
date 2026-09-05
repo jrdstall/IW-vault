@@ -1,8 +1,7 @@
 ---
 id: IDEA-A01
 type: idea
-title: Make an eInk based durable yet super cheap screen that you can stick on the
-  wall
+title: Kitchen eInk Display
 created: '2026-09-05T00:00:05.495978+00:00'
 domain: general
 tags: []

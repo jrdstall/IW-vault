@@ -1,8 +1,7 @@
 ---
 id: FRI-A03
 type: friction
-title: I don't like how the main way we entertain ourselves is to passively consume
-  con
+title: Stop Consuming!
 created: '2026-09-04T23:59:44.543285+00:00'
 domain: general
 tags:

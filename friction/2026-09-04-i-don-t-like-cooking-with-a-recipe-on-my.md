@@ -1,8 +1,7 @@
 ---
 id: FRI-A01
 type: friction
-title: I don't like cooking with a recipe on my phone screen.  It keeps having to
-  be tu
+title: Recipes on Phone Screens
 created: '2026-09-04T23:49:29.520565+00:00'
 domain: general
 tags:

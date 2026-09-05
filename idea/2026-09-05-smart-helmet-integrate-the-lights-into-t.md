@@ -1,7 +1,7 @@
 ---
 id: IDEA-A02
 type: idea
-title: 'Smart Helmet: integrate the lights into the helmet, headlight pointing forward,'
+title: Smart Cycling Helmet
 created: '2026-09-05T00:09:33.069850+00:00'
 domain: general
 tags:
