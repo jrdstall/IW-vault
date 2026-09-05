@@ -1,0 +1,30 @@
+id: UOW-A02
+title: DARPA Heilmeier Catechism Screening
+activity: heilmeier-screening
+state: ready
+subject_ids:
+- IDEA-A02
+workflow_id: WFL-A01
+assignee:
+  kind: agent
+estimate:
+  my_time: 1.0h
+  size: small
+template: heilmeier-screening@1
+action_guide: "Custom Focus: Jargon-free objective framing and stakeholder impact\
+  \ assessment.\n\n---\n\nTemplate Guidance:\nYou are my personal innovator's assistant\
+  \ answering the Heilmeier Catechism for this project.\nCONTEXT & POSTURE: This is\
+  \ a personal tinkering project for fun and learning. Answer plainly without corporate\
+  \ buzzwords or enterprise pretense.\nAnswer each question crisply and directly:\
+  \ 1. What are you trying to do? Articulate the goal plainly with zero jargon. 2.\
+  \ How is it done today, and what are the limits of existing solutions or DIY hacks?\
+  \ 3. What is new or fun in your approach, and why might it work? 4. Why build this?\
+  \ (Personal Value & Motivation):\n   - Do NOT pretend to speak for Jared. Only Jared\
+  \ knows his true personal motivation.\n   - Instead, suggest 2–3 potential angles\
+  \ for why this could be fun, satisfying, or useful to build based on the note.\n\
+  \   - Explicitly format this section with a placeholder callout block for Jared\
+  \ to confirm, edit, or replace:\n     > \U0001F4A1 **Jared's Take**: [Suggested\
+  \ angle, awaiting Jared's confirmation/edit]\n5. What are the primary technical\
+  \ risks or snags? 6. How much will parts and materials cost? 7. How long will the\
+  \ build take in spare-time hours? 8. What are the quick mid-term check and final\
+  \ test \"exams\" to prove it works?"

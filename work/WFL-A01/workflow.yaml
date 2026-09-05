@@ -1,0 +1,13 @@
+id: WFL-A01
+title: 'Maturation CML 1->2: IDEA-A02'
+subject_ids:
+- IDEA-A02
+unit_ids:
+- UOW-A01
+- UOW-A02
+dependencies:
+  UOW-A01: []
+  UOW-A02: []
+workflow_dependencies: []
+created: '2026-09-05T21:43:42.367038+00:00'
+template_id: maturation-plan@1
