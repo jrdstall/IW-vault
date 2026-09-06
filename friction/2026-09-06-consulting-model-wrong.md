@@ -3,15 +3,15 @@ id: FRI-A10
 type: friction
 title: Consulting Model Wrong
 created: '2026-09-06T13:16:28.150620+00:00'
-domain: general
+domain: enterprise
 tags:
 - business
 - consulting
 state: active
-last_touched: '2026-09-06T13:16:28.257284+00:00'
+last_touched: '2026-09-06T14:27:26.427274+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: web-ui
   requested_model: null
   declared_model: null
 ---
