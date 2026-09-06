@@ -3,13 +3,13 @@ id: IDEA-A01
 type: idea
 title: Kitchen eInk Display
 created: '2026-09-05T00:00:05.495978+00:00'
-domain: general
+domain: compute
 tags: []
 state: active
-last_touched: '2026-09-05T00:00:05.596641+00:00'
+last_touched: '2026-09-06T14:42:45.675503+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: web-ui
   requested_model: null
   declared_model: null
 edges:
@@ -24,5 +24,7 @@ edges:
     declared_model: null
   confidence: 1.0
   note: ''
+worth_to_me: medium
+worth_to_others: low
 ---
 Make an eInk based durable yet super cheap screen that you can stick on the wall above the cook surface or sit beside you.  you can just "push" a recipe to the screen from whatever source - and the source pushes a simple markdown file to the screen.  the screen wouldn't have to be tied to a specific app, it is just a discoverable "screen" that anything can push static content to.  the screen could have anything pushed to it, doesn't have to be just recipes.  See: Contextual profiles.
