@@ -12,7 +12,7 @@ state: active
 last_touched: '2026-09-06T14:18:04.295124+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: web-ui
   requested_model: null
   declared_model: null
 worth_to_me: medium
@@ -25,6 +25,17 @@ edges:
   author:
     kind: human
     courier: triage-surface
+    requested_model: null
+    declared_model: null
+  confidence: 1.0
+  note: ''
+- from: IDEA-A07
+  to: FRI-A09
+  relation: addresses
+  created: '2026-09-06T14:18:24.073245+00:00'
+  author:
+    kind: human
+    courier: web-ui
     requested_model: null
     declared_model: null
   confidence: 1.0
