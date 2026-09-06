@@ -3,14 +3,14 @@ id: FRI-A04
 type: friction
 title: Cycling Lights Suck
 created: '2026-09-05T00:08:49.346936+00:00'
-domain: general
+domain: cycling
 tags:
 - cycling consumer usability
 state: active
-last_touched: '2026-09-05T00:08:49.415675+00:00'
+last_touched: '2026-09-06T14:38:56.844731+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: web-ui
   requested_model: null
   declared_model: null
 ---
