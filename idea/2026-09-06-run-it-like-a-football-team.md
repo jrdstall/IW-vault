@@ -3,16 +3,16 @@ id: IDEA-A05
 type: idea
 title: Run it like a football team
 created: '2026-09-06T13:47:09.805053+00:00'
-domain: business
+domain: enterprise
 tags:
 - organization
 - behavior
 - football
 state: active
-last_touched: '2026-09-06T13:47:09.906453+00:00'
+last_touched: '2026-09-06T14:24:43.407986+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: web-ui
   requested_model: null
   declared_model: null
 worth_to_me: medium
