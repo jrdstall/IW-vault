@@ -3,11 +3,11 @@ id: IDEA-A02
 type: idea
 title: Smart Cycling Helmet
 created: '2026-09-05T00:09:33.069850+00:00'
-domain: general
+domain: cycling
 tags:
 - cycling hardware consumer
 state: active
-last_touched: '2026-09-05T00:09:33.138161+00:00'
+last_touched: '2026-09-06T14:38:36.848011+00:00'
 author:
   kind: human
   courier: web-ui
@@ -47,5 +47,7 @@ activity_log:
   ships in Livall and Lumos helmets; rear car-detection has been attempted by Classon
   via radar/camera with mixed market success — the concept is a solid remix target,
   not a novel build.'
+worth_to_me: medium
+worth_to_others: low
 ---
 Smart Helmet: integrate the lights into the helmet, headlight pointing forward, tail light in the back.  has light sensors and automatically can turn off the headlight when it's light enough.  also has easy to use buttons on the sides to manually turn on and off head and tail light, and you can tell if they are on and off tactile-y - like by the position of the switch.  you could even  get smart has have the tail light and headlight blink when senses cars in the area.  and you can easily take your helmet in and plugin to charge, and it can have a big battery that doesn't need charging very often.
