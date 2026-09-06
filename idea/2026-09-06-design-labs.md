@@ -3,13 +3,13 @@ id: IDEA-A04
 type: idea
 title: Design Labs
 created: '2026-09-06T13:21:49.831495+00:00'
-domain: general
+domain: creativity
 tags:
 - creativity
 - design
 - business
 state: active
-last_touched: '2026-09-06T13:50:45.180663+00:00'
+last_touched: '2026-09-06T14:26:04.603499+00:00'
 author:
   kind: human
   courier: web-ui
