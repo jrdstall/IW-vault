@@ -3,16 +3,16 @@ id: FRI-A32
 type: friction
 title: Public Toilets Suck
 created: '2026-09-06T14:21:05.870770+00:00'
-domain: general
+domain: lifestyle
 tags:
 - personal
 - hygiene
 - toilets
 state: active
-last_touched: '2026-09-06T14:21:05.982290+00:00'
+last_touched: '2026-09-06T14:42:12.177587+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: web-ui
   requested_model: null
   declared_model: null
 ---
