@@ -5,13 +5,13 @@ title: Media Manipuation
 created: '2026-09-06T13:39:04.766829+00:00'
 domain: politics
 tags:
-- '#big'
-- '#politics'
+- big
+- politics
 state: active
-last_touched: '2026-09-06T13:39:04.854580+00:00'
+last_touched: '2026-09-06T13:47:53.662012+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: web-ui
   requested_model: null
   declared_model: null
 ---
