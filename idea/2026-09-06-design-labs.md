@@ -4,12 +4,15 @@ type: idea
 title: Design Labs
 created: '2026-09-06T13:21:49.831495+00:00'
 domain: general
-tags: []
+tags:
+- creativity
+- design
+- business
 state: active
-last_touched: '2026-09-06T13:21:49.905215+00:00'
+last_touched: '2026-09-06T13:50:45.180663+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: web-ui
   requested_model: null
   declared_model: null
 edges:
@@ -24,5 +27,7 @@ edges:
     declared_model: null
   confidence: 1.0
   note: ''
+worth_to_me: medium
+worth_to_others: low
 ---
 We need to create "Design Labs" for people in creative roles, physical spaces designed for creation, and daily behaviors and activites that allow for creation - not for execution type work.
