@@ -1,0 +1,26 @@
+---
+id: FRI-A46
+type: friction
+title: Money Chain Services (spaghetti)
+created: '2026-09-08T00:16:28.323296+00:00'
+domain: finance
+tags:
+- SA
+- finance
+- money
+- chains
+state: active
+last_touched: '2026-09-08T00:16:28.597308+00:00'
+author:
+  kind: human
+  courier: triage-surface
+  requested_model: null
+  declared_model: null
+---
+inspired by evil money spaghetti
+
+so, see chains - like having a car means gas, maintenance, insurance costs
+
+entertainment has tv's, services, etc.
+
+color code, find things that can be cut, provide services to reduce costs, consolidate plans, watchers that look for lower rates, price drops, unclaimed offers, refinance - show what's possible but not as ads, just like : (today's rates are 4% and you're at 5%, a refi would cost x, reduce monthly payment by x and give you x extra years - so giving you a ton of up front info to help you decide, not to try to sell you.) etc.  instead of by domain, all domains.
