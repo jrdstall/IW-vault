@@ -10,13 +10,13 @@ tags:
 - C2
 - question
 state: held_open
-last_touched: '2026-09-21T22:33:45.178657+00:00'
+last_touched: '2026-09-21T23:30:15.399695+00:00'
 author:
   kind: human
   courier: web-ui
   requested_model: null
   declared_model: null
-form: open
+form: closed
 importance: medium
 move: why
 subject_id: IDEA-A39
