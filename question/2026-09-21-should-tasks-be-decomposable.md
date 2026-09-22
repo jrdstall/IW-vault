@@ -10,7 +10,7 @@ tags:
 - C2
 - question
 state: held_open
-last_touched: '2026-09-21T23:33:00.807325+00:00'
+last_touched: '2026-09-22T21:39:08.743768+00:00'
 author:
   kind: human
   courier: web-ui
@@ -35,7 +35,7 @@ edges:
   note: ''
 - from: QUE-A15
   to: QUE-A10
-  relation: narrows
+  relation: challenges
   created: '2026-09-21T22:33:45.178657+00:00'
   author:
     kind: human
