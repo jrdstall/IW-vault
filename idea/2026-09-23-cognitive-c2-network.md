@@ -8,13 +8,15 @@ tags:
 - C2
 - AI
 state: active
-last_touched: '2026-09-23T21:18:25.940864+00:00'
+last_touched: '2026-09-23T21:19:15.766962+00:00'
 author:
   kind: human
-  courier: intake-surface
+  courier: web-ui
   requested_model: null
   declared_model: null
 rendered_file: drop/cognitive-c2-network.md
+worth_to_me: high
+worth_to_others: high
 ---
 [cognitive-c2-network.md](drop/cognitive-c2-network.md)
 
