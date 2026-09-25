@@ -14,10 +14,10 @@ author:
   courier: web-ui
   requested_model: null
   declared_model: null
-rendered_file: drop/cognitive-c2-network.md
+rendered_file: attachments/IDEA-A41/cognitive-c2-network.md
 worth_to_me: high
 worth_to_others: high
 ---
 Humans and AI should be a team for C2.   see reference file.
 ---
-*Reference file: [cognitive-c2-network.md](drop/cognitive-c2-network.md)*
+*Reference file: [cognitive-c2-network.md](attachments/IDEA-A41/cognitive-c2-network.md)*
