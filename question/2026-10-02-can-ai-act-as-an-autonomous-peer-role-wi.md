@@ -1,0 +1,48 @@
+---
+id: QUE-A30
+type: question
+title: Can AI act as an autonomous peer role within the contextual profile ecosystem
+  rather than an external driver?
+created: '2026-10-02T23:55:21.794474+00:00'
+domain: computing
+tags:
+- computing
+- contextual-profiles
+- architecture
+- question
+state: held_open
+last_touched: '2026-10-02T23:55:21.794474+00:00'
+author:
+  kind: human
+  courier: triage-surface
+  requested_model: null
+  declared_model: null
+form: closed
+importance: medium
+move: what-if
+subject_id: IDEA-A45
+is_subquestion: true
+edges:
+- from: QUE-A30
+  to: IDEA-A45
+  relation: questions
+  created: '2026-10-02T23:55:21.794474+00:00'
+  author:
+    kind: human
+    courier: triage-surface
+    requested_model: null
+    declared_model: null
+  confidence: 1.0
+  note: ''
+- from: QUE-A30
+  to: QUE-A29
+  relation: explores
+  created: '2026-10-02T23:55:21.794474+00:00'
+  author:
+    kind: human
+    courier: triage-surface
+    requested_model: null
+    declared_model: null
+  confidence: 1.0
+  note: ''
+---
