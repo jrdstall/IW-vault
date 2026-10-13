@@ -3,14 +3,14 @@ id: IDEA-A02
 type: idea
 title: Smart Cycling Helmet
 created: '2026-09-05T00:09:33.069850+00:00'
-domain: cycling
+domain: Mobility & Transportation
 tags:
-- cycling hardware consumer
+- hardware
 state: active
 last_touched: '2026-09-06T14:38:36.848011+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 edges:

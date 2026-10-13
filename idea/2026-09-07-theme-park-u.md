@@ -3,7 +3,7 @@ id: IDEA-A17
 type: idea
 title: Theme Park U
 created: '2026-09-07T23:57:33.824522+00:00'
-domain: education
+domain: Learning & Education
 tags:
 - entertainment
 - education
@@ -12,7 +12,7 @@ state: active
 last_touched: '2026-09-07T23:57:34.053549+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

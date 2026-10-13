@@ -3,16 +3,15 @@ id: IDEA-A36
 type: idea
 title: Rent-A-Sat, ISR-As-A-Sarvice
 created: '2026-09-10T01:28:17.386576+00:00'
-domain: C2
+domain: Defense & C2
 tags:
 - satellite
-- C2
 - operationalconcept
 state: active
 last_touched: '2026-09-10T01:28:17.640862+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: high

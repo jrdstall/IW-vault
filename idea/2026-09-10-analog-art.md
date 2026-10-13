@@ -3,16 +3,15 @@ id: IDEA-A38
 type: idea
 title: Analog Art
 created: '2026-09-10T01:40:16.016589+00:00'
-domain: lifestyle
+domain: Creativity & Expression
 tags:
 - analog
 - art
-- consumer
 state: active
 last_touched: '2026-09-10T01:40:16.334148+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

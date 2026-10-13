@@ -3,15 +3,14 @@ id: OBS-A01
 type: observation
 title: Cooling Using Local Environment
 created: '2026-09-06T13:55:23.385888+00:00'
-domain: enterprise
+domain: Enterprise & Organization
 tags:
-- enterprise
 - big
 state: active
 last_touched: '2026-09-06T13:55:23.523047+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 edges:

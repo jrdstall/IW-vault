@@ -3,17 +3,14 @@ id: QUE-A17
 type: question
 title: When should tasks be decomposed?
 created: '2026-09-21T22:34:23.738292+00:00'
-domain: space
+domain: Space Systems
 tags:
-- space
 - satellite
-- C2
-- question
 state: held_open
 last_touched: '2026-09-22T21:48:30.317828+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 form: open

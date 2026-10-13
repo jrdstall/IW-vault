@@ -3,16 +3,14 @@ id: IDEA-A39
 type: idea
 title: LegionSat
 created: '2026-09-10T01:41:03.116993+00:00'
-domain: space
+domain: Space Systems
 tags:
-- space
 - satellite
-- C2
 state: active
 last_touched: '2026-09-10T01:43:22.258879+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

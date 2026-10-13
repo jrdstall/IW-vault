@@ -3,16 +3,15 @@ id: QUE-A06
 type: question
 title: Bird Reflections - deceiving sensors
 created: '2026-09-09T00:15:28.702954+00:00'
-domain: C2
+domain: Defense & C2
 tags:
 - deception
-- ISR
-- C2
+- isr
 state: active
 last_touched: '2026-09-09T00:15:28.950559+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

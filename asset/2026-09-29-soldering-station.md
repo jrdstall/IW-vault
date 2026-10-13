@@ -3,14 +3,14 @@ id: AST-A03
 type: asset
 title: Soldering Station
 created: '2026-09-29T18:08:56.229350+00:00'
-domain: assets
+domain: Tools & Prototyping
 tags:
 - soldering
 state: active
 last_touched: '2026-09-29T18:08:56.381938+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

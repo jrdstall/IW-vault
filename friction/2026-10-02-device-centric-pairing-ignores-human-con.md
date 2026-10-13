@@ -3,7 +3,7 @@ id: FRI-A53
 type: friction
 title: Device-centric pairing ignores human context
 created: '2026-10-02T23:55:21.794474+00:00'
-domain: hardware
+domain: Computing & Architecture
 tags:
 - bluetooth
 - pairing
@@ -13,7 +13,7 @@ state: active
 last_touched: '2026-10-02T23:55:21.794474+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 stem: There has to be a better way to...

@@ -3,7 +3,7 @@ id: FRI-A25
 type: friction
 title: Conferences Are Wasted Opportunities
 created: '2026-09-06T13:59:58.732177+00:00'
-domain: enterprise
+domain: Enterprise & Organization
 tags:
 - conferences
 - inefficient
@@ -11,7 +11,7 @@ state: active
 last_touched: '2026-09-06T13:59:58.848840+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

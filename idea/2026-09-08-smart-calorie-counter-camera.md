@@ -3,17 +3,16 @@ id: IDEA-A22
 type: idea
 title: Smart Calorie Counter Camera
 created: '2026-09-08T00:08:38.480122+00:00'
-domain: health
+domain: Health & Performance
 tags:
 - calorie
 - food
-- health
 - nutrition
 state: active
 last_touched: '2026-09-08T00:08:38.703788+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

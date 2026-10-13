@@ -3,17 +3,14 @@ id: QUE-A15
 type: question
 title: should tasks be decomposable?
 created: '2026-09-21T22:33:45.178657+00:00'
-domain: space
+domain: Space Systems
 tags:
-- space
 - satellite
-- C2
-- question
 state: held_open
 last_touched: '2026-09-22T21:47:16.533929+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 form: closed

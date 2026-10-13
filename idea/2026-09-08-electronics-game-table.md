@@ -3,7 +3,7 @@ id: IDEA-A32
 type: idea
 title: Electronics Game Table
 created: '2026-09-08T00:31:34.974596+00:00'
-domain: entertainment
+domain: Creativity & Expression
 tags:
 - games
 - electronics
@@ -11,7 +11,7 @@ state: active
 last_touched: '2026-09-08T00:31:35.256300+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

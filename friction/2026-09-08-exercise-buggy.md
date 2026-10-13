@@ -3,14 +3,14 @@ id: FRI-A49
 type: friction
 title: Exercise Buggy
 created: '2026-09-08T00:17:29.332981+00:00'
-domain: health
+domain: Health & Performance
 tags:
 - fitness
 state: active
 last_touched: '2026-09-08T00:17:29.553854+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

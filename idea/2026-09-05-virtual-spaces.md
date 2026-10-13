@@ -3,14 +3,16 @@ id: IDEA-A03
 type: idea
 title: Virtual Spaces
 created: '2026-09-05T03:11:36.810585+00:00'
-domain: lifestyle
+domain: Computing & Architecture
 tags:
-- futuristic VR social
+- futuristic
+- vr
+- social
 state: active
 last_touched: '2026-09-06T14:41:02.272897+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 edges:

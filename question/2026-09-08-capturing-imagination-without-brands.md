@@ -3,16 +3,15 @@ id: QUE-A04
 type: question
 title: Capturing Imagination without brands
 created: '2026-09-08T00:05:56.480839+00:00'
-domain: entertainment
+domain: Creativity & Expression
 tags:
-- creativity
 - branding
 - imagination
 state: active
 last_touched: '2026-09-08T00:05:56.681372+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

@@ -3,7 +3,7 @@ id: IDEA-A19
 type: idea
 title: Assembly Line Learning
 created: '2026-09-08T00:06:40.035597+00:00'
-domain: education
+domain: Learning & Education
 tags:
 - education
 - learning
@@ -12,7 +12,7 @@ state: active
 last_touched: '2026-09-08T00:06:40.252841+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

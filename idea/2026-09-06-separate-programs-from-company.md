@@ -3,16 +3,15 @@ id: IDEA-A07
 type: idea
 title: Separate Programs From Company
 created: '2026-09-06T14:18:04.158941+00:00'
-domain: enterprise
+domain: Enterprise & Organization
 tags:
 - organization
-- defense
 - execution
 state: active
 last_touched: '2026-09-06T14:18:04.295124+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

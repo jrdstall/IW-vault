@@ -3,16 +3,15 @@ id: FRI-A44
 type: friction
 title: 4 Way Stop Stop Light
 created: '2026-09-08T00:14:12.107580+00:00'
-domain: automotive
+domain: Mobility & Transportation
 tags:
 - safety
-- automotive
 - annoying
 state: active
 last_touched: '2026-09-08T00:14:12.345917+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

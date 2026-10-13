@@ -3,17 +3,14 @@ id: QUE-A12
 type: question
 title: An ecosystem of indendent actors? or a fleet of controlled resources?
 created: '2026-09-21T22:30:40.134219+00:00'
-domain: space
+domain: Space Systems
 tags:
-- space
 - satellite
-- C2
-- question
 state: held_open
 last_touched: '2026-09-22T21:38:11.338478+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 form: open

@@ -3,7 +3,7 @@ id: FRI-A45
 type: friction
 title: Mormon Technology Lab Inspiration
 created: '2026-09-08T00:15:43.157254+00:00'
-domain: enterprise
+domain: Enterprise & Organization
 tags:
 - technology
 - lab
@@ -13,7 +13,7 @@ state: active
 last_touched: '2026-09-08T00:15:43.417505+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

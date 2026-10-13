@@ -3,7 +3,7 @@ id: IDEA-A05
 type: idea
 title: Run it like a football team
 created: '2026-09-06T13:47:09.805053+00:00'
-domain: enterprise
+domain: Enterprise & Organization
 tags:
 - organization
 - behavior
@@ -12,7 +12,7 @@ state: active
 last_touched: '2026-09-06T14:24:43.407986+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

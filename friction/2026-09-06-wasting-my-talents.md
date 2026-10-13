@@ -3,7 +3,7 @@ id: FRI-A17
 type: friction
 title: Wasting My Talents
 created: '2026-09-06T13:52:04.553576+00:00'
-domain: jared
+domain: Living & Preparedness
 tags:
 - abstract
 - personal
@@ -12,7 +12,7 @@ state: active
 last_touched: '2026-09-06T13:52:04.670457+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

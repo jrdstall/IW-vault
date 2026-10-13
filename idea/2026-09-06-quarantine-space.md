@@ -3,7 +3,7 @@ id: IDEA-A12
 type: idea
 title: Quarantine Space
 created: '2026-09-06T15:00:06.035512+00:00'
-domain: health
+domain: Health & Performance
 tags:
 - quarantine
 - mobile
@@ -11,7 +11,7 @@ state: active
 last_touched: '2026-09-06T15:00:06.242200+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

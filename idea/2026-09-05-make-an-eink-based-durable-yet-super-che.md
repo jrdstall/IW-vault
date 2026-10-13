@@ -3,13 +3,13 @@ id: IDEA-A01
 type: idea
 title: Kitchen eInk Display
 created: '2026-09-05T00:00:05.495978+00:00'
-domain: compute
+domain: Computing & Architecture
 tags: []
 state: active
 last_touched: '2026-09-06T14:42:45.675503+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 edges:

@@ -3,15 +3,13 @@ id: IDEA-A35
 type: idea
 title: Build to Order EVs
 created: '2026-09-09T00:15:58.335327+00:00'
-domain: automotive
-tags:
-- automotive
-- creativity
+domain: Mobility & Transportation
+tags: []
 state: active
 last_touched: '2026-09-09T00:15:58.616050+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

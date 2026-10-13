@@ -3,9 +3,9 @@ id: FRI-A46
 type: friction
 title: Money Chain Services (spaghetti)
 created: '2026-09-08T00:16:28.323296+00:00'
-domain: finance
+domain: Enterprise & Organization
 tags:
-- SA
+- sa
 - finance
 - money
 - chains
@@ -13,7 +13,7 @@ state: active
 last_touched: '2026-09-08T00:16:28.597308+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

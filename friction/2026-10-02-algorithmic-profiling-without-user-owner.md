@@ -3,7 +3,7 @@ id: FRI-A57
 type: friction
 title: Algorithmic profiling without user ownership or visibility
 created: '2026-10-02T23:55:21.794474+00:00'
-domain: privacy
+domain: Computing & Architecture
 tags:
 - identity
 - privacy
@@ -13,7 +13,7 @@ state: active
 last_touched: '2026-10-02T23:55:21.794474+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 stem: I don't like...

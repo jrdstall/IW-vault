@@ -3,7 +3,7 @@ id: IDEA-A11
 type: idea
 title: Mobile Personal Spaces
 created: '2026-09-06T14:59:11.720993+00:00'
-domain: mobility
+domain: Mobility & Transportation
 tags:
 - workspace
 - livingspace
@@ -12,7 +12,7 @@ state: active
 last_touched: '2026-09-06T14:59:11.926973+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

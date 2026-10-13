@@ -3,7 +3,7 @@ id: IDEA-A34
 type: idea
 title: Chemical Light-Up Tracers
 created: '2026-09-08T23:58:23.978564+00:00'
-domain: ISR
+domain: Defense & C2
 tags:
 - chemistry
 - sensors
@@ -12,7 +12,7 @@ state: active
 last_touched: '2026-09-08T23:58:24.177289+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

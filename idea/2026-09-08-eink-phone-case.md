@@ -3,7 +3,7 @@ id: IDEA-A23
 type: idea
 title: eInk Phone Case
 created: '2026-09-08T00:09:23.786449+00:00'
-domain: consumer
+domain: Computing & Architecture
 tags:
 - electronics
 - expression
@@ -11,7 +11,7 @@ state: active
 last_touched: '2026-09-08T00:09:23.972968+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

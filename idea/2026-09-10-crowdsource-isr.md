@@ -3,16 +3,16 @@ id: IDEA-A37
 type: idea
 title: CrowdSource ISR
 created: '2026-09-10T01:39:48.434470+00:00'
-domain: C2
+domain: Defense & C2
 tags:
-- ISR
+- isr
 - commercial
 - crowdsource
 state: active
 last_touched: '2026-09-10T01:39:48.775640+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

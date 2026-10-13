@@ -4,17 +4,15 @@ type: question
 title: Can hardware screens, compute, and speakers be decomposed into dynamic, discoverable
   ambient resources?
 created: '2026-10-02T23:55:21.794474+00:00'
-domain: computing
+domain: Computing & Architecture
 tags:
-- computing
 - contextual-profiles
 - architecture
-- question
 state: held_open
 last_touched: '2026-10-02T23:55:21.794474+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 form: open

@@ -3,14 +3,14 @@ id: IDEA-A10
 type: idea
 title: Personal SCIF Space
 created: '2026-09-06T14:58:17.600634+00:00'
-domain: enterprise
+domain: Enterprise & Organization
 tags:
 - scif
 state: active
 last_touched: '2026-09-06T14:58:17.812935+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

@@ -3,9 +3,8 @@ id: FRI-A59
 type: friction
 title: Warfighter data and C2 trapped in platform and INT stovepipes
 created: '2026-10-02T23:55:21.794474+00:00'
-domain: defense
+domain: Defense & C2
 tags:
-- c2
 - warfighter
 - isr
 - platforms
@@ -14,7 +13,7 @@ state: active
 last_touched: '2026-10-02T23:55:21.794474+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 stem: There has to be a better way to...

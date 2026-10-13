@@ -3,16 +3,15 @@ id: IDEA-A47
 type: idea
 title: Multi-Dimensional AI training
 created: '2026-10-13T18:44:34.356635+00:00'
-domain: ai
+domain: Creativity & Expression
 tags:
 - ai
 - outofthebox
-- creativity
 state: active
 last_touched: '2026-10-13T18:44:34.556390+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

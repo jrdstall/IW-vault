@@ -3,17 +3,15 @@ id: IDEA-A09
 type: idea
 title: Tinkersat
 created: '2026-09-06T14:47:52.418901+00:00'
-domain: space
+domain: Space Systems
 tags:
 - autonomy
-- space
-- C2
 - fun
 state: active
 last_touched: '2026-09-06T14:47:52.609912+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: high

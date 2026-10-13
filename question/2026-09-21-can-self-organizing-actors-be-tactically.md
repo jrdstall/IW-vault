@@ -3,17 +3,14 @@ id: QUE-A14
 type: question
 title: Can self-organizing actors be tactically relevant?
 created: '2026-09-21T22:32:49.320283+00:00'
-domain: space
+domain: Space Systems
 tags:
-- space
 - satellite
-- C2
-- question
 state: held_open
 last_touched: '2026-09-22T21:38:42.037121+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 form: closed

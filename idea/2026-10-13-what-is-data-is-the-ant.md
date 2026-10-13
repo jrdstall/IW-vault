@@ -3,16 +3,15 @@ id: IDEA-A46
 type: idea
 title: What is "data" is the ant?
 created: '2026-10-13T18:40:03.387303+00:00'
-domain: c2
+domain: Defense & C2
 tags:
-- c2
 - enterpriseorchestration
 - aerospace
 state: active
 last_touched: '2026-10-13T18:40:03.584215+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

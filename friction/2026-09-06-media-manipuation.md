@@ -3,7 +3,7 @@ id: FRI-A13
 type: friction
 title: Media Manipuation
 created: '2026-09-06T13:39:04.766829+00:00'
-domain: politics
+domain: Living & Preparedness
 tags:
 - big
 - politics
@@ -11,7 +11,7 @@ state: active
 last_touched: '2026-09-06T13:47:53.662012+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

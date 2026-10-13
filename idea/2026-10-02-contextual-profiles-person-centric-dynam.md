@@ -3,19 +3,18 @@ id: IDEA-A45
 type: idea
 title: 'Contextual Profiles: Person-Centric Dynamic Resource and Data Fabric'
 created: '2026-10-02T23:55:21.794474+00:00'
-domain: computing
+domain: Computing & Architecture
 tags:
 - contextual-profiles
 - smart-data
 - ambient-computing
 - iot
-- c2
 - privacy
 state: active
 last_touched: '2026-10-02T23:55:21.794474+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: high

@@ -3,7 +3,7 @@ id: FRI-A62
 type: friction
 title: Non-Virtual Experience, Opportunity?
 created: '2026-10-13T15:23:06.377935+00:00'
-domain: opportunity
+domain: Creativity & Expression
 tags:
 - non-virtual
 - human
@@ -11,7 +11,7 @@ state: active
 last_touched: '2026-10-13T15:23:53.604769+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 edges:

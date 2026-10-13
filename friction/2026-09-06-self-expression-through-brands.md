@@ -3,16 +3,15 @@ id: FRI-A35
 type: friction
 title: Self Expression through "Brands"
 created: '2026-09-06T14:22:48.929273+00:00'
-domain: identity
+domain: Creativity & Expression
 tags:
-- consumer
 - identity
 - brands
 state: active
 last_touched: '2026-09-06T14:22:49.066189+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

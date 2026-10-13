@@ -3,7 +3,7 @@ id: FRI-A60
 type: friction
 title: 'Creative Exercise: shift register • slinky spring • reaction wheel'
 created: '2026-10-13T15:21:45.061497+00:00'
-domain: creativity
+domain: Creativity & Expression
 tags:
 - outofthebox
 - crazy
@@ -11,7 +11,7 @@ state: active
 last_touched: '2026-10-13T15:21:45.265077+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

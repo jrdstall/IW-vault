@@ -3,15 +3,14 @@ id: FRI-A48
 type: friction
 title: Dimentia Walker
 created: '2026-09-08T00:17:10.336684+00:00'
-domain: health
+domain: Health & Performance
 tags:
-- health
 - oldpeople
 state: active
 last_touched: '2026-09-08T00:17:10.597021+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

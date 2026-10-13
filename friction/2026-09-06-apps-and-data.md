@@ -3,16 +3,15 @@ id: FRI-A22
 type: friction
 title: Apps And Data
 created: '2026-09-06T13:58:23.412937+00:00'
-domain: compute
+domain: Computing & Architecture
 tags:
 - apps
 - data
-- compute
 state: active
 last_touched: '2026-09-06T13:58:23.501971+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

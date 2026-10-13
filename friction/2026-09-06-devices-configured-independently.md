@@ -3,9 +3,8 @@ id: FRI-A26
 type: friction
 title: Devices Configured Independently
 created: '2026-09-06T14:00:58.626660+00:00'
-domain: compute
+domain: Computing & Architecture
 tags:
-- compute
 - profiles
 - apps
 - devices
@@ -13,7 +12,7 @@ state: active
 last_touched: '2026-09-06T14:00:58.719664+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

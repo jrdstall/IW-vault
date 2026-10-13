@@ -3,16 +3,16 @@ id: FRI-A30
 type: friction
 title: AI tries too hard
 created: '2026-09-06T14:19:55.763131+00:00'
-domain: compute
+domain: Creativity & Expression
 tags:
-- AI
+- ai
 - inefficient
 - human
 state: active
 last_touched: '2026-09-06T14:19:55.886973+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

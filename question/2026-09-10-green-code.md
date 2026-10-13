@@ -3,17 +3,16 @@ id: QUE-A08
 type: question
 title: Green Code?
 created: '2026-09-10T01:46:42.016028+00:00'
-domain: compute
+domain: Computing & Architecture
 tags:
-- AI
+- ai
 - green
 - power
-- compute
 state: active
 last_touched: '2026-09-10T01:46:42.347677+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

@@ -3,17 +3,14 @@ id: QUE-A11
 type: question
 title: Where is what scheduled?  Where is what real-time commanded?
 created: '2026-09-21T22:02:13.296348+00:00'
-domain: space
+domain: Space Systems
 tags:
-- space
 - satellite
-- C2
-- question
 state: held_open
 last_touched: '2026-09-21T22:02:13.296348+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 form: open

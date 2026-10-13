@@ -3,7 +3,7 @@ id: IDEA-A44
 type: idea
 title: Constrained Agent Execution
 created: '2026-09-25T00:26:42.001817+00:00'
-domain: AI
+domain: Computing & Architecture
 tags:
 - agents
 - constraints
@@ -12,7 +12,7 @@ state: active
 last_touched: '2026-09-25T00:26:42.384660+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: medium

@@ -3,16 +3,14 @@ id: IDEA-A08
 type: idea
 title: CO2 Exhaust Calorie Counter
 created: '2026-09-06T14:23:37.486836+00:00'
-domain: health
+domain: Health & Performance
 tags:
-- health
 - diet
-- consumer
 state: active
 last_touched: '2026-09-06T14:23:37.627561+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

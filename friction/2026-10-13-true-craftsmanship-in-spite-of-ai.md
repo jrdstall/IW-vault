@@ -3,17 +3,16 @@ id: FRI-A63
 type: friction
 title: True Craftsmanship in spite of AI
 created: '2026-10-13T15:29:47.578572+00:00'
-domain: AI
+domain: Creativity & Expression
 tags:
 - craftsmanship
 - ai
 - human
-- creativity
 state: active
 last_touched: '2026-10-13T15:29:47.760994+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

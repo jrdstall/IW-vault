@@ -3,14 +3,13 @@ id: ART-A01
 type: artifact
 title: deliverable.md for UOW-A01
 created: '2026-09-05T23:42:51.725588+00:00'
-domain: artifacts
-tags:
-- artifact
+domain: Mobility & Transportation
+tags: []
 state: active
 last_touched: '2026-09-05T23:42:51.851525+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 file_name: deliverable.md

@@ -3,14 +3,16 @@ id: FRI-A03
 type: friction
 title: Stop Consuming!
 created: '2026-09-04T23:59:44.543285+00:00'
-domain: lifestyle
+domain: Living & Preparedness
 tags:
-- broad entertainment personal
+- broad
+- entertainment
+- personal
 state: active
 last_touched: '2026-09-06T14:40:37.986047+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

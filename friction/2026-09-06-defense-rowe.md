@@ -3,16 +3,15 @@ id: FRI-A27
 type: friction
 title: Defense ROWE
 created: '2026-09-06T14:02:23.179653+00:00'
-domain: enterprise
+domain: Enterprise & Organization
 tags:
 - organization
-- defense
 - inefficient
 state: active
 last_touched: '2026-09-06T14:02:23.271026+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

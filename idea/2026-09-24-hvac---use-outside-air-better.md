@@ -3,7 +3,7 @@ id: IDEA-A42
 type: idea
 title: HVAC - use outside air better
 created: '2026-09-24T23:58:20.279574+00:00'
-domain: general
+domain: Living & Preparedness
 tags:
 - heating
 - cooling
@@ -12,7 +12,7 @@ state: active
 last_touched: '2026-09-24T23:58:20.639663+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: low

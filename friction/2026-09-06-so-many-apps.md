@@ -3,7 +3,7 @@ id: FRI-A34
 type: friction
 title: So Many Apps!
 created: '2026-09-06T14:22:01.301086+00:00'
-domain: compute
+domain: Computing & Architecture
 tags:
 - apps
 - silos
@@ -11,7 +11,7 @@ state: active
 last_touched: '2026-09-06T14:22:01.421817+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 edges:

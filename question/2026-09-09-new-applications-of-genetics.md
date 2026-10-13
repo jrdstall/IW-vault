@@ -3,16 +3,15 @@ id: QUE-A07
 type: question
 title: New Applications of Genetics
 created: '2026-09-09T00:16:37.111629+00:00'
-domain: compute
+domain: Computing & Architecture
 tags:
-- compute
-- algorithms. AI
-- creativity
+- algorithms.
+- ai
 state: active
 last_touched: '2026-09-09T00:16:37.408576+00:00'
 author:
   kind: human
-  courier: triage-surface
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 ---

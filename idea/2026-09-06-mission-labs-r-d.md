@@ -3,9 +3,9 @@ id: IDEA-A06
 type: idea
 title: Mission Labs/R&D
 created: '2026-09-06T14:14:16.883791+00:00'
-domain: creativity
+domain: Creativity & Expression
 tags:
-- R&D
+- r&d
 - mission
 - innovation
 - labs
@@ -13,7 +13,7 @@ state: active
 last_touched: '2026-09-06T14:43:42.764539+00:00'
 author:
   kind: human
-  courier: web-ui
+  courier: taxonomy-migration
   requested_model: null
   declared_model: null
 worth_to_me: high
