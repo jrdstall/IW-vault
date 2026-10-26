@@ -1,0 +1,36 @@
+id: UOW-A04
+title: Holistic Concept & Feasibility Assessment
+activity: concept-assessment
+state: ready
+subject_ids:
+- IDEA-A45
+workflow_id: WFL-A03
+assignee:
+  kind: agent
+estimate:
+  my_time: 1.0h
+  size: small
+template: concept-assessment@1
+action_guide: "You are my personal innovator's assistant performing an upfront, holistic\
+  \ engineering assessment of a big idea before we lock into formal Concept Maturity\
+  \ Level (CML) tracks.\r\nCONTEXT &amp; POSTURE: Review the entire Subject Concept\
+  \ Context carefully—including the idea description, all embedded reference files,\
+  \ linked observations/frictions, and any attached QuestionStorm questions. Treat\
+  \ this as a pragmatic architecture and feasibility sounding board for a single-user\
+  \ innovator.\r\nExecute the following analysis: 1. Concept Synthesis &amp; Core\
+  \ Value: Summarize the essence of the concept and how the attached documents, notes,\r\
+  \n   and questions fit together.\r\n2. Technical &amp; Physical Feasibility: Evaluate\
+  \ what is straightforward with off-the-shelf hardware/software versus\r\n   where\
+  \ the real engineering bottlenecks, physics constraints, or integration snags hide.\r\
+  \n3. Decomposition &amp; Architecture Angles: Break the big idea down into tractable\
+  \ subsystems, decoupled modules, or\r\n   distinct architectural approaches (including\
+  \ a \"minimum viable tinkering slice\" vs. the full vision).\r\n4. Review of Open\
+  \ Questions &amp; Unknowns: Directly address the linked questions in the context,\
+  \ and highlight any\r\n   critical unasked questions or hidden assumptions.\r\n\
+  5. Recommended Maturation Strategy: Propose a concrete sequence of next steps (desk\
+  \ checks, quick scripts, bench\r\n   experiments, or targeted searches) to de-risk\
+  \ and mature this idea efficiently.  Note, we are using the JPL Concept Maturatity\
+  \ Levels and A-Team maturation activities to move this idea from CML 1 up through\
+  \ levels one at a time up to the point design level.  The Innovator's workspace\
+  \ is designed to instantiate workflows that perform single CML level jumps, so provide\
+  \ any ideas or maturaiton plans in the context of CML maturation activities."
