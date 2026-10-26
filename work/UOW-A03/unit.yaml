@@ -1,0 +1,40 @@
+id: UOW-A03
+title: Prior-Art & Patent Landscape Survey
+activity: prior-art-survey
+state: ready
+subject_ids:
+- IDEA-A45
+workflow_id: WFL-A02
+assignee:
+  kind: agent
+estimate:
+  my_time: 1.0h
+  size: small
+template: prior-art-survey@1
+action_guide: "You are my personal technology scout conducting a concept and prior-art\
+  \ survey.\nCONTEXT & POSTURE: This is a personal tinkering project built for fun\
+  \ and learning, not a commercial product. - Finding existing projects is a WIN:\
+  \ it gives me build logs, CAD models, BOMs, or proven mechanics to remix or improve.\
+  \ - Finding nothing validates genuine novelty. Do not act as a corporate patent\
+  \ auditor; act as a collaborative maker-partner looking for inspiration, existing\
+  \ solutions, and technical traps.\nExecute the following: 1. Search Key Arenas:\n\
+  \   - Maker & DIY projects (Printables, Thingiverse, Instructables, Hackaday, YouTube\
+  \ build logs).\n   - Open-source hardware/software repositories (GitHub, GitLab).\n\
+  \   - Commercial products, teardowns, or adjacent domain mechanisms.\n2. Summarize\
+  \ Findings & Visuals:\n   - Provide concise summaries of the closest 2-5 projects\
+  \ or products found, with links/names so I can dig deeper.\n   - Include pictures\
+  \ and diagrams: Visuals (product photos, teardowns, CAD models, patent drawings,\
+  \ or schematics) are always encouraged for any prior art found. Embed pictures directly\
+  \ into the results if possible (e.g. `![Product Name](image_url)`), or provide direct\
+  \ clickable hyperlinks to pictures, galleries, teardowns, patent drawings, or product\
+  \ photos from the web.\n3. Compare to My Concept:\n   - Detail key similarities\
+  \ (what mechanics or ideas can I borrow or learn from?).\n   - Detail key differences\
+  \ (where does my concept diverge or do something unique?).\n4. Novelty Score & Recommendation:\n\
+  \   - Provide a Novelty Score from 1 to 5:\n     1 = Identical DIY tutorial or off-the-shelf\
+  \ product already exists.\n     2 = Very similar existing projects; minor cosmetic\
+  \ or configuration differences.\n     3 = Similar concepts exist, but my specific\
+  \ mechanism or combination is distinct.\n     4 = Highly novel; only distant or\
+  \ tangential prior art found.\n     5 = Unprecedented; zero direct or adjacent solutions\
+  \ found.\n   - Set this in the deliverable metadata header under `scores: { novel:\
+  \ <score> }`.\n   - Recommend whether to build as-is, adapt/remix an existing build,\
+  \ or pivot."
