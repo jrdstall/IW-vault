@@ -11,10 +11,10 @@ tags:
 - iot
 - privacy
 state: active
-last_touched: '2026-10-02T23:55:21.794474+00:00'
+last_touched: '2026-10-26T16:53:12.859351+00:00'
 author:
   kind: human
-  courier: taxonomy-migration
+  courier: web-ui
   requested_model: null
   declared_model: null
 worth_to_me: high
@@ -97,6 +97,17 @@ edges:
     declared_model: null
   confidence: 1.0
   note: ''
+- from: IDEA-A45
+  to: ART-A02
+  relation: evidence_for
+  created: '2026-10-26T16:53:12.859351+00:00'
+  author:
+    kind: human
+    courier: web-ui
+    requested_model: null
+    declared_model: null
+  confidence: 1.0
+  note: contextual-computing.md
 ---
 # Contextual Profiles
 
