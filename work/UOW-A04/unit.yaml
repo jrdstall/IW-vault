@@ -1,7 +1,7 @@
 id: UOW-A04
 title: Holistic Concept & Feasibility Assessment
 activity: concept-assessment
-state: ready
+state: dispatched
 subject_ids:
 - IDEA-A45
 workflow_id: WFL-A03
