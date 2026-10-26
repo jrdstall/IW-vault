@@ -1,0 +1,11 @@
+id: WFL-A03
+title: 'Concept Assessment & Exploration: IDEA-A45'
+subject_ids:
+- IDEA-A45
+unit_ids:
+- UOW-A04
+dependencies:
+  UOW-A04: []
+workflow_dependencies: []
+created: '2026-10-26T17:38:17.837845+00:00'
+template_id: maturation-plan@1
